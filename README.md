@@ -1,11 +1,16 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-# Hey, I'm Majid 👋  
-Aspiring Full-Stack Developer | MERN Stack Enthusiast | B.Tech IT Student
+<h1 align="center">Hey, I'm Majid 👋</h1>
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast | B.Tech IT Student</h3>
 
-💻 I build real-world projects using **MERN Stack** and **MongoDB**  
-🚀 Projects: [Shopique](https://shopique-iota.vercel.app), [Smart Parking System](https://namma-spot.vercel.app)  
-🎯 Currently building an **ERP system** to improve business operations  
-📈 Always learning, building & exploring new tech  
-📫 Reach me at: [majidsmart7@gmail.com](mailto:majidsmart7@gmail.com)
+---
 
-![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNraHZpMmtuczVhbGI5YXI1anZoNWNkODMwNGlqN3JraGpzMjl6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  💻 I build real-world projects using <b>MERN Stack</b> and <b>MongoDB</b> <br>
+  🚀 Projects: <a href="https://shopique-iota.vercel.app">Shopique</a> | <a href="https://namma-spot.vercel.app">Smart Parking System</a> <br>
+  🎯 Currently building an <b>ERP system</b> to improve business operations <br>
+  📈 Always learning, building & exploring new tech <br>
+  📫 Reach me at: <a href="mailto:majidsmart7@gmail.com">majidsmart7@gmail.com</a>
+</p>
