@@ -1,5 +1,5 @@
-# Hey, I'm Majid 👋  
-Aspiring Full-Stack Developer | MERN Stack Enthusiast | B.Tech IT Student
+# Hey, I'm Majid Husain J 👋  
+Aspiring Full-Stack Developer | Tech Enthusiast | B.Tech IT Student
 
 💻 I build real-world projects using **MERN Stack**, **React Native**, and **MongoDB**  
 🚀 Projects: [Shopique](https://shopique-iota.vercel.app), [Smart Parking System](https://namma-spot.vercel.app)  
