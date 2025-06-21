@@ -5,10 +5,8 @@
 
 <p align="center">
   💻 I build real-world projects using <b>MERN Stack</b> and <b>MongoDB</b> <br>
-  🚀 Projects: <a href="https://shopique-iota.vercel.app">Shopique</a> | <a href="https://namma-spot.vercel.app">Smart Parking System</a> <br>
-  🎯 Currently building an <b>ERP system</b> to improve business operations <br>
+  
   📈 Always learning, building & exploring new tech <br>
-  📫 Reach me at: <a href="mailto:majidsmart7@gmail.com">majidsmart7@gmail.com</a>
 </p>
 
 <p align="center">
