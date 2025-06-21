@@ -5,7 +5,6 @@
 
 <p align="center">
   💻 I build real-world projects using <b>MERN Stack</b> and <b>MongoDB</b> <br>
-  
   📈 Always learning, building & exploring new tech <br>
 </p>
 
